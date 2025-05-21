@@ -1,5 +1,4 @@
-    ![Alt text](https://github.com/coderdark063/Bulk-Email-Sender/blob/d38094a99745a361fad7979770045695503e88c9/Screenshot%202025-05-20%20200023.png)
-
+![image Alt](https://github.com/coderdark063/Bulk-Email-Sender/blob/d38094a99745a361fad7979770045695503e88c9/Screenshot%202025-05-20%20200023.png)
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
 
 ## Getting Started
